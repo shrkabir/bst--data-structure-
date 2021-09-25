@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1500740499 source:d:\documents\bst\bst.cpp
+	"BST.h"
+	"iostream"
+
+1502975119 d:\documents\bst\bst.h
+	"BSTNODE.h"
+	"iostream"
+
+1502975119 d:\documents\bst\bstnode.h
+	"iostream"
+
+1500739691 source:d:\documents\bst\main.cpp
+	<iostream>
+	"BST.h"
+	"BSTNODE.h"
+
